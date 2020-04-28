@@ -35,10 +35,10 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav mr-auto">
-                        <li><a href="#">ru</a></li>
-                        <li><a href="#">en</a></li>
+                        <li><a href="#" class="btn">ru</a></li>
+                        <li><a href="#" class="btn">en</a></li>
                     </ul>
-
+                    
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">
                         <!-- Authentication Links -->
